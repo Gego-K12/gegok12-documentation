@@ -1,5 +1,5 @@
 ---
-title: "Parent App"
+title: "GegoK12 Parent App"
 ---
 
 # Installation Guide (Parent App)
