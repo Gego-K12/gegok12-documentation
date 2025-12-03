@@ -36,7 +36,7 @@ export default {
       const title = config.title || 'Documentation Feedback'
       const path = router.pathname
       const fullUrl = `https://docs.gegok12.com/${router.asPath}`
-      return `https://github.com/Gego-K12/gegok12/issues/new?labels=feedback&title=${encodeURIComponent('Feedback: ' + title)}&body=${encodeURIComponent(`**Page URL:** ${fullUrl}\n**Page Path:** ${path}\n\n**Feedback:**\n\n`)}`
+      return `https://github.com/Gego-K12/gegok12-documentation/issues/new?labels=feedback&title=${encodeURIComponent('Feedback: ' + title)}&body=${encodeURIComponent(`**Page URL:** ${fullUrl}\n**Page Path:** ${path}\n\n**Feedback:**\n\n`)}`
     }
   },
   

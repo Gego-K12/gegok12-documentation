@@ -2,7 +2,7 @@
 
 GegoK12 is designed with a flexible modular architecture that allows schools to start with essential features and expand as needed. Our modules are divided into two categories: **Free Core Modules** and **Paid Add-on Modules**.
 
-## 🆓 Free Modules (Core Modules)
+## Free Modules (Core Modules)
 
 When you pull the code and set up GegoK12, you'll have access to all **Core Modules** by default. These modules provide comprehensive functionality that is **enough for a school to run** its day-to-day operations efficiently.
 
@@ -36,7 +36,7 @@ When you pull the code and set up GegoK12, you'll have access to all **Core Modu
 | **[Activity Log](core-modules/activity-log)** | System audit trail for tracking user actions and changes |
 | **[Reception Management](core-modules/reception-management)** | Manage visitor logs and front desk operations |
 
-### ✨ Why Core Modules Are Enough
+### Why Core Modules Are Enough
 
 Our Core Modules provide everything a school needs to:
 
@@ -51,7 +51,7 @@ Our Core Modules provide everything a school needs to:
 
 ---
 
-## 💎 Paid Modules (Add-on Modules)
+## Paid Modules (Add-on Modules)
 
 Add-on Modules are **advanced features** designed for schools that need specialized functionality beyond the core system. These modules enhance GegoK12 with powerful tools for assessments, management, and communication.
 
@@ -69,7 +69,7 @@ Add-on Modules are **advanced features** designed for schools that need speciali
 | **[Chat Module](add-on-modules/chat-module)** | Real-time messaging system | Group chats, private messaging, file sharing, notifications, teacher-parent-student communication |
 | **[Certificate Module](add-on-modules/certificate-module)** | Certificate generation system | Custom templates, bulk generation, digital certificates, verification system, automatic distribution |
 
-### 🎯 Benefits of Add-on Modules
+### Benefits of Add-on Modules
 
 - **Specialized Functionality** - Advanced features for specific needs
 - **Scalability** - Add modules as your school grows
@@ -80,7 +80,7 @@ Add-on Modules are **advanced features** designed for schools that need speciali
 
 ---
 
-## 💰 Pricing & Purchase
+## Pricing & Purchase
 
 ### How to Get Add-on Modules
 
@@ -99,7 +99,7 @@ Our team will be happy to:
 - Assist with installation and setup
 - Provide training and ongoing support
 
-### 🏢 Enterprise Solutions
+### Enterprise Solutions
 
 For large educational institutions or multi-campus operations, we offer custom enterprise packages that include:
 
@@ -114,7 +114,7 @@ Contact us at **enterprise@gegok12.com** for enterprise pricing.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installing Core Modules
 
@@ -128,7 +128,7 @@ After purchasing an Add-on Module, our support team will guide you through the i
 
 ---
 
-## 📊 Comparison Table
+## Comparison Table
 
 | Feature | Core Modules (Free) | Add-on Modules (Paid) |
 |---------|--------------------|-----------------------|
@@ -142,7 +142,7 @@ After purchasing an Add-on Module, our support team will guide you through the i
 
 ---
 
-## 🤝 Need Help Choosing?
+## Need Help Choosing?
 
 Not sure which Add-on Modules you need? Our team can help!
 
@@ -158,7 +158,7 @@ Not sure which Add-on Modules you need? Our team can help!
 
 ---
 
-## 📚 Learn More
+## Learn More
 
 - [Getting Started Guide](/documentation/getting-started) - Set up GegoK12
 - [Core Modules Documentation](/documentation/core-modules) - Detailed guides for each core module
