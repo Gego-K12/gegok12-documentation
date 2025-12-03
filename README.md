@@ -227,7 +227,7 @@ This project is open source. See the [LICENSE](LICENSE) file for details.
 - **Issues**: [GitHub Issues](https://github.com/Gego-K12/gegok12-documentation/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Gego-K12/gegok12-documentation/discussions)
 - **Email**: support@gegok12.com
-- **Twitter**: [@GegoK12](https://twitter.com/GegoK12)
+- **Twitter**: [@GegoSoftTech](https://x.com/GegoSoftTech)
 
 ---
 
