@@ -1,0 +1,51 @@
+{
+  "exam-module": "Exam Module",
+  "fee-module": "Fee Module",
+  "alumni-module": "Alumni Module",
+  "video-room-module": "Video Room Module",
+  "transport-module": "Transport Module",
+  "quiz-module": "Quiz Module",
+  "inventory-module": "Inventory Module",
+  "chat-module": "Chat Module",
+  "certificate-module": "Certificate Module",
+  "fees-records": {
+    "title": "Fees Records",
+    "display": "hidden"
+  },
+  "inventory-management": {
+    "title": "Inventory Management",
+    "display": "hidden"
+  },
+  "exam-management": {
+    "title": "Exam Management",
+    "display": "hidden"
+  },
+  "alumni-management": {
+    "title": "Alumni Management",
+    "display": "hidden"
+  },
+  "certificate-management": {
+    "title": "Certificate Management",
+    "display": "hidden"
+  },
+  "stock-management": {
+    "title": "Stock Management",
+    "display": "hidden"
+  },
+  "videoroom-management": {
+    "title": "VideoRoom Management",
+    "display": "hidden"
+  },
+  "transport-management": {
+    "title": "Transport Management",
+    "display": "hidden"
+  },
+  "quiz-management": {
+    "title": "Quiz Management",
+    "display": "hidden"
+  },
+  "chat-room": {
+    "title": "Chat room Management",
+    "display": "hidden"
+  }
+}

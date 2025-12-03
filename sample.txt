@@ -1,0 +1,17 @@
+export default {
+  project: {
+   // link: 'https://github.com/shuding/nextra',
+  },
+  logo: <span>Gego-K12</span>,
+ footer: {
+    text: null
+  },
+   head: (
+    <>
+      <title>Gego-K12</title>
+      <meta name="description" content="Welcome to Gego-K12, a modern platform for K12 education." />
+      <meta property="og:title" content="Gego-K12" />
+      <meta property="og:description" content="Welcome to Gego-K12, a modern platform for K12 education." />
+    </>
+  ),
+};
