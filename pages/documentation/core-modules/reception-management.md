@@ -8,7 +8,7 @@ A Complete Guide for Admins & Receptionists
 
 ---
 
-## 1. Introduction
+## Introduction
 
 The **Reception Module** in GegoK12 is designed to modernize and digitize the school’s front-desk operations. As the first point of contact for parents, visitors, students, and vendors, receptionists handle a large volume of daily communications. This module provides them with the tools they need to manage every visitor entry, phone call, postal item, and task efficiently.
 
@@ -27,9 +27,9 @@ This ensures transparency, accountability, and a smooth front-desk experience fo
 
 ![Screenshot](./images/reception/p1.png)
 
-# 2. Creating a Receptionist (Admin Guide)
+## Creating a Receptionist (Admin Guide)
 
-## 2.1 Navigate to Non-Teaching Staff
+### Navigate to Non-Teaching Staff
 
 **Menu Path:**
 
@@ -41,7 +41,7 @@ Click **Add New Staff** to begin creating the profile
 
 ---
 
-## 2.2 Fill Basic Profile Details
+### Fill Basic Profile Details
 
 A staff creation form will open. Enter all required information such as:
 
@@ -57,7 +57,7 @@ Click **Submit** to move to the next tab.
 
 ---
 
-## 2.3 Add Educational Qualification
+### Add Educational Qualification
 
 Fill in the relevant qualification details and click **Submit**.
 
@@ -65,7 +65,7 @@ Fill in the relevant qualification details and click **Submit**.
 
 ---
 
-## 2.4 Add Notes
+### Add Notes
 
 Add any internal notes related to the receptionist profile.
 
@@ -75,7 +75,7 @@ Click **Submit**.
 
 ---
 
-## 2.5 Enter Address
+### Enter Address
 
 Add communication and permanent address information.
 
@@ -85,7 +85,7 @@ Click **Submit** to complete the creation process.
 
 ---
 
-## 2.6 Login Auto-Creation for Receptionist
+### Login Auto-Creation for Receptionist
 
 Once all steps are completed, GegoK12 automatically creates the login credentials:
 
@@ -98,7 +98,7 @@ The receptionist can later update their password using **Change Password** insid
 
 ---
 
-## 2.7 Additional Admin Controls
+## Additional Admin Controls
 
 From the receptionist’s profile page, the admin can:
 
@@ -135,9 +135,9 @@ Enter bank details for the the salary processing
 
 ---
 
-# 3. Receptionist Login & Dashboard
+## Receptionist 
 
-## 3.1 Logging In
+### Logging In
 
 Receptionists log in through the school portal using:
 
@@ -150,7 +150,7 @@ They may change their password after login.
 
 ---
 
-## 3.2 Dashboard Overview
+### Dashboard 
 
 Once logged in, the Receptionist Dashboard provides a consolidated view of:
 
@@ -175,9 +175,9 @@ The left pane contains quick access to all relevant modules:
 
 ---
 
-# 4. Calendar & Events
+## Calendar & Events
 
-## 4.1 Overview
+### Overview
 
 The Calendar gives the receptionist a **holistic, real-time picture** of all events happening in the school. Since events impact visitor flow and parent enquiries, staying informed is crucial.
 
@@ -197,7 +197,7 @@ This ensures the receptionist always knows:
 
 ---
 
-## 4.2 Using the Calendar
+### Using the Calendar
 
 The receptionist generally **does not create events**. But there is an option to create Events. For Events, check the [Link to Calendar Module] Calendar Module. They use the calendar to view and refer to school activities.
 
@@ -219,16 +219,16 @@ Steps:
 
 ---
 
-## 4.3 Types of Events Visible
+### Types of Events Visible
 
-### School Events
+#### School Events
 
 - Annual Day
 - Sports Day
 - Examination Schedules
 - PTA Meetings
 
-### Classroom Events
+#### Classroom Events
 
 - Class activities
 - Tests / Exams
@@ -239,7 +239,7 @@ All events appear in a structured, color-coded manner.
 
 ---
 
-## 4.4 Why Calendar Access is Important
+### Why Calendar Access is Important
 
 Having full visibility helps the receptionist:
 
@@ -251,9 +251,9 @@ Having full visibility helps the receptionist:
 
 ---
 
-# 5. Visitor Log
+## Visitor Log
 
-## 5.1 Overview
+### Overview
 
 The **Visitor Log** replaces traditional handwritten entry registers with a secure, searchable digital system. Every person entering the campus is recorded—parents, guests, vendors, interview candidates, or officials.
 
@@ -269,7 +269,7 @@ This is one of the core responsibilities of a receptionist.
 
 ---
 
-## 5.2 Adding a Visitor
+### Adding a Visitor
 
 1. Click **Visitor Log**
 2. Click **Add** (top-right)
@@ -284,7 +284,7 @@ This is one of the core responsibilities of a receptionist.
 
 ---
 
-## 5.3 Manage Visitor Records
+### Manage Visitor Records
 
 Receptionists can:
 
@@ -297,9 +297,9 @@ Receptionists can:
 
 ---
 
-# 6. Call Log
+## Call Log
 
-## 6.1 Overview
+### Overview
 
 The **Call Log** digitizes the record of all incoming and outgoing phone calls handled at the front desk. Schools receive calls about:
 
@@ -319,7 +319,7 @@ A structured Call Log ensures:
 
 ---
 
-## 6.2 Adding a Call Log
+### Adding a Call Log
 
 1. Click **Call Log**
 2. Click **Add Log**
@@ -334,9 +334,9 @@ A structured Call Log ensures:
 
 ---
 
-# 7. Postal Record
+## Postal Record
 
-## 7.1 Overview
+### Overview
 
 The **Postal Record** module digitizes the handling of incoming and outgoing courier/postal items. At a school, postal items may include:
 
@@ -356,7 +356,7 @@ Digitizing postal management ensures:
 
 ---
 
-## 7.2 Adding a Postal Record
+### Adding a Postal Record
 
 1. Click **Postal Record**
 2. Click **Add New Postal Record**
@@ -373,9 +373,9 @@ Digitizing postal management ensures:
 
 ---
 
-# 8. To-Do List
+## To-Do List
 
-## 8.1 Overview
+### Overview
 
 Receptionists handle numerous daily tasks. The **To-Do List** helps maintain personal productivity and ensures no important task is forgotten.
 
@@ -389,7 +389,7 @@ Receptionists can create task reminders for:
 
 ---
 
-## 8.2 Adding a To-Do Item
+### Adding a To-Do Item
 
 1. Open **To-Do List**
 2. Click **Add**
@@ -404,9 +404,9 @@ Receptionists can create task reminders for:
 
 ---
 
-# 9. Holidays
+## Holidays
 
-## 9.1 Overview
+### Overview
 
 Receptionists can view the complete holiday list added by the admin. This helps answer parent queries and understand operational closures.
 
@@ -418,9 +418,9 @@ Check https://docs.gegok12.com/documentation/core-modules/holiday-list
 
 ---
 
-# 10. Notice Board
+## Notice Board
 
-## 10.1 Overview
+### Overview
 
 The Notice Board displays all important announcements from the school. This helps receptionists stay updated and respond correctly to enquiries.
 
@@ -442,9 +442,9 @@ https://docs.gegok12.com/documentation/core-modules/notice-board-management
 
 ---
 
-# 11. Activity Log
+## Activity Log
 
-## 11.1 Overview
+### Overview
 
 The Activity Log displays all actions performed by the receptionist, ensuring transparency and accountability.
 
