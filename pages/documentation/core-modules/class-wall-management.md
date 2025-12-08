@@ -1,5 +1,5 @@
 ---
-title: "Class Social Wall | GegoK12 Student Engagement"
+title: "Class Wall | GegoK12 - Student Engagement"
 description: "Create classroom community with posts, likes, comments & shared content. Boost student engagement through GegoK12."
 og:title: "Class Social Wall | GegoK12 Student Engagement"
 og:description: "Create classroom community with posts, likes, comments & shared content. Boost student engagement through GegoK12."   
