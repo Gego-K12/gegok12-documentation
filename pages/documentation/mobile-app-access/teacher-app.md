@@ -1,5 +1,5 @@
 ---
-title: "Teacher App"
+title: "Teacher App Gego"
 ---
 
 # Installation Guide (Teacher App)
