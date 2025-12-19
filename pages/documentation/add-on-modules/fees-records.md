@@ -1,78 +1,86 @@
 ---
-title: "Fee Management System | GegoK12 School Finance"
-description: "Automate fee collection, track payments, generate receipts & manage school finances efficiently with GegoK12 fee module."
-og:title: "Fee Management System | GegoK12 School Finance"
-og:description: "Automate fee collection, track payments, generate receipts & manage school finances efficiently with GegoK12 fee module."
+title: "Fee Collection & Management with GegoK12 Fee Module"
+description: "Simplify student fee collection, receipts, and reports using the smart and secure Fee Module in GegoK12."
+og:title: "Fee Collection & Management with GegoK12 Fee Module"
+og:description: "Simplify student fee collection, receipts, and reports using the smart and secure Fee Module in GegoK12."
 ---
-
-# Fee record Module Demo
-
-Easily manage student fee payments with automated invoices, payment tracking, and clear financial reports. Stay organized, reduce errors, and keep your school’s finances transparent and efficient.
-
-## How to Use the Fee Record Module
-
-Follow these simple steps to add and manage fee records in your school management system:
-
-1. **Click on “Fee Record”** from the left-hand menu to open the fee management section.
-
-   ![Screenshot](./images/fees/m28.png)
+# How Admin Adds Fees -  Step-by-Step Procedure
 
 
-## Create Fees
+This guide shows how an Admin creates **structural fees** (recurring/standard fees) and **other fees** (one-time / ad hoc) so they appear in student profiles and on the Accountant dashboard.
 
-2. **Click the “Add” button** in the top-right corner to begin adding a new fee.
+## Menu Navigation
 
-   ![Screenshot](./images/fees/m29.png)
+**Menu path:** Admin → Fee Management → Fee Records
 
----
+![Screenshot](./images/feemodule/picture2.png)
+![Screenshot](./images/feemodule/picture9.png)
 
-3. **Click “Add a New Fee Type”** to create a custom fee category.
+## Decide Fee Type
 
-   ![Screenshot](./images/fees/m30.png)
+Before adding, decide whether the fee is:
 
----
+- **Structural Fee** — standard, recurring fees (tuition, transport, lab).
+- **Other Fee** — one-time or ad-hoc charges (exam fine, book fee).
 
-4. Enter the **fee name** and a short **description,** then save it.
+## Add / Record Fee Type
 
-   ![Screenshot](./images/fees/m31.png)
+![Screenshot](./images/feemodule/picture3.png)
 
-Fill in the fee details in the form:
+1.	Click **Fee Records** (or Fee Types).
+2.	Click **Add New** (or Add Fee Type).
+3.	In the form, enter:
 
-- **Fee Type** (e.g., Tuition, Lab Fee)
-- **Fees For** (e.g., Class 10, Term 1)
-- **Title, Term, Amount,** and other relevant fields
-- Click **Submit** to save the fee record.
+- **Fee Type / Name** (e.g., Tuition, Transport, Exam Fine)
+- **Description** (optional — brief purpose)
 
-  ![Screenshot](./images/fees/m32.png)
+4.	Click **Submit / Save.**
+Result: New fee type is created and available when adding specific fee entries.
 
-Use the **Reset** button to clear the form before submitting (if needed)
+Create all required fee types first (tuition, transport, admission, etc.) so they appear in dropdowns later.
 
-![Screenshot](./images/fees/m33.png)
+## Add a Specific Fee Record (Structure or Other Fee)
 
-The newly added fee will now appear in the list below.
+1.	From **Fee Records, click Add Fee** (or Add New Fee).
+2.	Complete the **fee form** fields:
 
-![Screenshot](./images/fees/m34.png)
+- **Fee Name / Title:** Clear title (e.g., “Tuition — Grade 2 — Term2”)
+- **Fee Type:** Choose from the previously created types (Structural / Other)
+- **Fee For:** Select target (Class / Student / Section / Category)
+- **Select Class / Section / Student(s):** Pick the class this fee applies to
+- **Term / Session:** (if applicable) Term 1 / Semester / Academic Year
+- **Amount:** Enter the fee amount
+- **Payment Date / Start Date:** Date from which payment window opens 
+- **Due Date / Last Date:** Final date for payment
 
-## Edit Fee
+3.	Click **Submit / Save.**
 
-You can also **Edit** the fee details by clicking the **Edit icon**
+![Screenshot](./images/feemodule/picture4.png)
 
-![Screenshot](./images/fees/m35.png)
+## Verify in Student Profile
 
-## Payment Details
+1.	Open a sample **Student Profile** (one of the targeted students).
+2.	Go to the **Fee / Fee Records** section.
+3.	Confirm the **new fee** (title, amount, due date) appears for that student.
 
-You can also **View payment details** by clicking the 👁 **Show icon**
-![Screenshot](./images/fees/m36.png)
+![Screenshot](./images/feemodule/picture5.png)
 
-## Delete Fees
+## Accountant Dashboard Reflection
 
-You can also **Delete the fee** permanently using the **Delete icon**
+•	The newly added fee will reflect on the **Accountant Dashboard** under:
 
-![Screenshot](./images/fees/m37.png)
+- **Unpaid Fees / Pending Collections** (if not yet paid)
+- **Fee Due Dates / Upcoming Payments** (based on payment/due date)
+- **Fee Reports** → administrators / accountants can view totals by class, term, or status
 
-## Other Fees
-To add other fees, simply repeat the same steps.
+Accountant profile’s dashboard view 
 
-![Screenshot](./images/fees/m38.png)
+![Screenshot](./images/feemodule/picture6.png)
 
----
+The admin can view the list of names by clicking the view button 
+
+![Screenshot](./images/feemodule/picture7.png)
+
+Once clicked the list of names will displaced
+
+![Screenshot](./images/feemodule/picture8.png)
