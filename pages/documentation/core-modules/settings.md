@@ -11,7 +11,7 @@ og:description: "Follow this step-by-step guide to install, configure, and launc
 The **settings Module** is the backbone of the GegoK12 School Management System. It allows administrators to configure school-wide foundational data, academic structures, admission flow, exam rules, holiday lists, and operational policies.
 This module ensures that the entire school system runs smoothly with accurate, organized, and centralized information.
 
-![Screenshot](./images/setting/s1.png)  
+![Screenshot](./images/settingspicture54.png)  
 
 ## Accessing the Settings Module
 
@@ -57,13 +57,13 @@ The School Details section stores essential information about the institution. T
 
 3.Click **Submit** to save.
 
-![Screenshot](./images/setting/Picture1.webp)
+![Screenshot](./images/settingspicture1.png)
 
-![Screenshot](./images/setting/Picture2.png)
+![Screenshot](./images/settingspicture2.png)
 
-![Screenshot](./images/setting/Picture5.png)
+![Screenshot](./images/settingspicture5.png)
 
-![Screenshot](./images/setting/Picture6.png)
+![Screenshot](./images/settingspicture6.png)
 
 **Editing**
 
@@ -73,7 +73,7 @@ The School Details section stores essential information about the institution. T
 
 **Open Tab** : Indicates whether online admission is active or inactive.
 
-![Screenshot](./images/setting/Picture7.png)
+![Screenshot](./images/settingspicture7.png)
 
 **Viewing the Online Admission Form**
 
@@ -89,7 +89,7 @@ The School Details section stores essential information about the institution. T
 
 The school details information will be displayed in the Teachers & Parent App once they login with their credentials. 
 
-![Screenshot](./images/setting/Picture7.png)
+![Screenshot](./images/settingspicture7.png)
 
 ## Online Admission Form Sections
 
@@ -103,7 +103,7 @@ The school details information will be displayed in the Teachers & Parent App on
 
 •	Select the admission class and click Next.
 
-![Screenshot](./images/setting/Pics.png)
+![Screenshot](./images/settingspics.png)
 
 **Student Details**
 
@@ -119,9 +119,9 @@ Record:
 
 Click **Next**.
 
-![Screenshot](./images/setting/Picture10.png)
+![Screenshot](./images/settingspicture10.png)
 
-![Screenshot](./images/setting/Picture11.png)
+![Screenshot](./images/settingspicture11.png)
 
 **Academic Details**
 
@@ -135,7 +135,7 @@ Record:
 
 **•	Group selection and board registration apply only for Grade X, XI & XII.**
 
-![Screenshot](./images/setting/Picture12.png)
+![Screenshot](./images/settingspicture12.png)
 
 Click **Next.**
 
@@ -143,31 +143,31 @@ Click **Next.**
 
 •	Record all parent/guardian information.
 
-![Screenshot](./images/setting/Picture13.png)
+![Screenshot](./images/settingspicture13.png)
 
-![Screenshot](./images/setting/Picture14.png)
+![Screenshot](./images/settingspicture14.png)
 
 **Personal Details**
 
 •	Complete remaining personal information.
 
-![Screenshot](./images/setting/Picture15.png)
+![Screenshot](./images/settingspicture15.png)
 
 After submission:
 
 •	A **new application form** is successfully added.
 
-![Screenshot](./images/setting/Picture16.png)
+![Screenshot](./images/settingspicture16.png)
 
 ## Additional Notes for School Details
 
 •	School information can be edited any time.
 
-![Screenshot](./images/setting/Picture17.png)
+![Screenshot](./images/settingspicture17.png)
 
 •	Admission status can be set to **Active/Inactive.**
 
-![Screenshot](./images/setting/Picture18.png)
+![Screenshot](./images/settingspicture18.png)
 
 •	You can reset all details using the **Reset** button.
 
@@ -191,11 +191,11 @@ This section manages academic year timelines and classifications (current, new, 
 
 4.	Click **Submit.**
 
-![Screenshot](./images/setting/Picture19.png)
+![Screenshot](./images/settings/picture19.png)
 
-![Screenshot](./images/setting/Picture20.png)
+![Screenshot](./images/settings/picture20.png)
 
-![Screenshot](./images/setting/Picture21.png)
+![Screenshot](./images/settings/picture21.png)
 
 **Available Actions**
 
@@ -203,19 +203,19 @@ This section manages academic year timelines and classifications (current, new, 
 - View
 - Delete
 
-![Screenshot](./images/setting/Picture22.png)
+![Screenshot](./images/settings/picture22.png)
 
 **Note: The details can be edited from the action menu** 
 
-![Screenshot](./images/setting/Picture23.png)
+![Screenshot](./images/settings/picture23.png)
 
 **Note: The details can be edited from the action menu**
 
-![Screenshot](./images/setting/Picture24.png)
+![Screenshot](./images/settings/picture24.png)
 
 **Note: The details can be edited from the action menu**
 
-![Screenshot](./images/setting/Picture25.png)
+![Screenshot](./images/settings/picture25.png)
 
 **Note**
 
@@ -238,37 +238,37 @@ Lists all online admission forms submitted via Admin.
  - Application Status
  - Action options
 
- ![Screenshot](./images/setting/Picture26.png)
+ ![Screenshot](./images/settings/picture26.png)
 
- ![Screenshot](./images/setting/Picture27.png)
+ ![Screenshot](./images/settings/picture27.png)
 
 The online student admission form filled by the administrator will be listed here. The details such as Application Number, Name, class applied for,application status, action will be displayed.
 
 The application status can be changed by the edit tab. The Application status has pending, rejected and approved status 
 
-![Screenshot](./images/setting/Picture28.png)
+![Screenshot](./images/settings/picture28.png)
 
-![Screenshot](./images/setting/Picture29.png)
+![Screenshot](./images/settings/picture29.png)
 
-![Screenshot](./images/setting/Picture30.png)
+![Screenshot](./images/settings/picture30.png)
 
 **Application Status - Pending (BUG )**
 
 Change the status to pending and click submit
 
-![Screenshot](./images/setting/Picture31.png)
+![Screenshot](./images/settings/picture31.png)
 
 **Application Status - Rejected**
 
 Change the status to Rejected and click submit
 
-![Screenshot](./images/setting/Picture32.png)
+![Screenshot](./images/settings/picture32.png)
 
 **Application Status – Approved**
 
 Change the status to Approved, record all the details such as section,fee type, Admission fee –paid /unpaid and click submit. The student will successfully get enrolled. ( How will we notify the parent about the enrolment ) 
 
-![Screenshot](./images/setting/Picture33.png)
+![Screenshot](./images/settings/picture33.png)
 
 ## Holiday List
 
@@ -283,9 +283,9 @@ Allows admin to set all school holidays for the academic year.
 3.	Enter holiday details.
 4.	Click **Submit.**
 
-![Screenshot](./images/setting/Picture34.png)
+![Screenshot](./images/settings/picture34.png)
 
-![Screenshot](./images/setting/Picture35.png)
+![Screenshot](./images/settings/picture35.png)
 
 - Click Holiday List and then Add from the top-right corner.
 - Enter the holiday details for the current year and click Submit.
@@ -297,32 +297,32 @@ Login as a Teacher with the credentials given by the admin. To check how to logi
 
 Go to Dashboard ----- Holidays (The list of holidays will be displayed)
 
-![Screenshot](./images/setting/Picture36.png)
+![Screenshot](./images/settings/picture36.png)
 
 **Holiday List Reflection in Student’s Profile**
 
 Login with the App credentials in the mobile App or login in the web
 Click Holidays on the left pane of the dashboard ------ (The list of holidays will be displayed)
 
-![Screenshot](./images/setting/Picture37.png)
+![Screenshot](./images/settings/picture37.png)
 
 **Holiday List Reflection in Receptionist ’s Profile**
 Login with the credentials in the Receptionist’s Login and click Holidays 
 Holidays ------ (The list of holidays will be displayed)
 
-![Screenshot](./images/setting/Picture38.png)
+![Screenshot](./images/settings/picture38.png)
 
 **Holiday List Reflection in Accountant ’s Profile**
 Login with the credentials in the Accountant’s Login and click Holidays  
 Holidays ------ (The list of holidays will be displayed)
 
-![Screenshot](./images/setting/Picture39.png)
+![Screenshot](./images/settings/picture39.png)
 
 **Holiday List Reflection in Librarian ’s Profile**
 Login with the credentials in the librarian’s Login and click Holidays  
 Holidays ------ (The list of holidays will be displayed)
 
-![Screenshot](./images/setting/Picture40.png)
+![Screenshot](./images/settings/picture40.png)
 
 ## Exam Rules
 
@@ -344,9 +344,9 @@ Defines the scoring boundaries used for grading calculation.
 **Note:**
 These rules help auto-generate grade calculations.
 
-![Screenshot](./images/setting/Picture41.png)
+![Screenshot](./images/settings/picture41.png)
 
-![Screenshot](./images/setting/Picture42.png)
+![Screenshot](./images/settings/picture42.png)
 
 - Record exam rules by entering the Grade Name, Minimum Score Percentage, and Maximum Score Percentage.
 - Click Submit to save.
@@ -363,9 +363,9 @@ Displays the list of graded brackets defined for assessment.
 1.	Click **Settings → Exam Grades.**
 2.	View the preconfigured exam grades.
 
-![Screenshot](./images/setting/Picture42.png)
+![Screenshot](./images/settings/picture42.png)
 
-![Screenshot](./images/setting/Picture43.png)
+![Screenshot](./images/settings/picture43.png)
 
 - The list of exam grades configured will be displayed here for reference.
 
@@ -382,9 +382,9 @@ Manages promotion workflow from one class to the next.
 
 [https://docs.gegok12.com/documentation](https://docs.gegok12.com/documentation)
 
-![Screenshot](./images/setting/Picture45.png)
-![Screenshot](./images/setting/Picture46.png)
-![Screenshot](./images/setting/Picture47.png)
+![Screenshot](./images/settings/picture45.png)
+![Screenshot](./images/settings/picture46.png)
+![Screenshot](./images/settings/picture47.png)
 The promotion list for Grade II A can be downloaded in the excel sheet. 
 
 ## Leave Master
@@ -415,13 +415,13 @@ Common types:
 **Full Leave Module Reference**
 
 [https://docs.google.com/document/d/1w-PXiFZ5NLj2kPf8zTsFvEDeIUPAC0eojnLA4pv7iaA/](https://docs.google.com/document/d/1w-PXiFZ5NLj2kPf8zTsFvEDeIUPAC0eojnLA4pv7iaA/)
-![Screenshot](./images/setting/Picture48.png)
+![Screenshot](./images/settings/picture48.png)
 Define different leave types for clarity, such as Earned Leave, Casual Leave, Sick Leave, Maternity Leave, Quarantine Leave, and Study Leave.
 
-![Screenshot](./images/setting/Picture49.png)
+![Screenshot](./images/settings/picture49.png)
 - Click Add New from the top-right corner, enter the leave type and maximum number of days, and click Submit.
-![Screenshot](./images/setting/Picture50.png)
-![Screenshot](./images/setting/Picture51.png)
+![Screenshot](./images/settings/picture50.png)
+![Screenshot](./images/settings/picture51.png)
 
 ## Conclusion
 The Settings Module ensures that your institution’s operational foundation is properly structured.
