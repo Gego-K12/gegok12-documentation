@@ -11,7 +11,7 @@ og:description: "Follow this step-by-step guide to install, configure, and launc
 The **settings Module** is the backbone of the GegoK12 School Management System. It allows administrators to configure school-wide foundational data, academic structures, admission flow, exam rules, holiday lists, and operational policies.
 This module ensures that the entire school system runs smoothly with accurate, organized, and centralized information.
 
-![Screenshot](./images/settingspicture54.png)  
+![Screenshot](./images/settings/picture54.png)  
 
 ## Accessing the Settings Module
 
@@ -57,13 +57,13 @@ The School Details section stores essential information about the institution. T
 
 3.Click **Submit** to save.
 
-![Screenshot](./images/settingspicture1.png)
+![Screenshot](./images/settings/picture1.png)
 
-![Screenshot](./images/settingspicture2.png)
+![Screenshot](./images/settings/picture2.png)
 
-![Screenshot](./images/settingspicture5.png)
+![Screenshot](./images/settings/picture5.png)
 
-![Screenshot](./images/settingspicture6.png)
+![Screenshot](./images/settings/picture6.png)
 
 **Editing**
 
@@ -73,7 +73,7 @@ The School Details section stores essential information about the institution. T
 
 **Open Tab** : Indicates whether online admission is active or inactive.
 
-![Screenshot](./images/settingspicture7.png)
+![Screenshot](./images/settings/picture7.png)
 
 **Viewing the Online Admission Form**
 
@@ -89,7 +89,7 @@ The School Details section stores essential information about the institution. T
 
 The school details information will be displayed in the Teachers & Parent App once they login with their credentials. 
 
-![Screenshot](./images/settingspicture7.png)
+![Screenshot](./images/settings/picture7.png)
 
 ## Online Admission Form Sections
 
@@ -103,7 +103,7 @@ The school details information will be displayed in the Teachers & Parent App on
 
 •	Select the admission class and click Next.
 
-![Screenshot](./images/settingspics.png)
+![Screenshot](./images/settings/pics.png)
 
 **Student Details**
 
@@ -119,9 +119,9 @@ Record:
 
 Click **Next**.
 
-![Screenshot](./images/settingspicture10.png)
+![Screenshot](./images/settings/picture10.png)
 
-![Screenshot](./images/settingspicture11.png)
+![Screenshot](./images/settings/picture11.png)
 
 **Academic Details**
 
@@ -135,7 +135,7 @@ Record:
 
 **•	Group selection and board registration apply only for Grade X, XI & XII.**
 
-![Screenshot](./images/settingspicture12.png)
+![Screenshot](./images/settings/picture12.png)
 
 Click **Next.**
 
@@ -143,31 +143,31 @@ Click **Next.**
 
 •	Record all parent/guardian information.
 
-![Screenshot](./images/settingspicture13.png)
+![Screenshot](./images/settings/picture13.png)
 
-![Screenshot](./images/settingspicture14.png)
+![Screenshot](./images/settings/picture14.png)
 
 **Personal Details**
 
 •	Complete remaining personal information.
 
-![Screenshot](./images/settingspicture15.png)
+![Screenshot](./images/settings/picture15.png)
 
 After submission:
 
 •	A **new application form** is successfully added.
 
-![Screenshot](./images/settingspicture16.png)
+![Screenshot](./images/settings/picture16.png)
 
 ## Additional Notes for School Details
 
 •	School information can be edited any time.
 
-![Screenshot](./images/settingspicture17.png)
+![Screenshot](./images/settings/picture17.png)
 
 •	Admission status can be set to **Active/Inactive.**
 
-![Screenshot](./images/settingspicture18.png)
+![Screenshot](./images/settings/picture18.png)
 
 •	You can reset all details using the **Reset** button.
 
@@ -425,4 +425,4 @@ Define different leave types for clarity, such as Earned Leave, Casual Leave, Si
 
 ## Conclusion
 The Settings Module ensures that your institution’s operational foundation is properly structured.
-By configuring these settings correctly, all other modules (Admissions, Fees, Payroll, Staff, Academics) will function smoothly with accurate and centralized data.
+By configuring these settingss// correctly, all other modules (Admissions, Fees, Payroll, Staff, Academics) will function smoothly with accurate and centralized data.

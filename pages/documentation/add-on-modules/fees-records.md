@@ -13,8 +13,8 @@ This guide shows how an Admin creates **structural fees** (recurring/standard fe
 
 **Menu path:** Admin → Fee Management → Fee Records
 
-![Screenshot](./images/feemodule/picture2.png)
-![Screenshot](./images/feemodule/picture9.png)
+![Screenshot](./images/fees/picture2.png)
+![Screenshot](./images/fees/picture9.png)
 
 ## Decide Fee Type
 
@@ -25,7 +25,7 @@ Before adding, decide whether the fee is:
 
 ## Add / Record Fee Type
 
-![Screenshot](./images/feemodule/picture3.png)
+![Screenshot](./images/fees/picture3.png)
 
 1.	Click **Fee Records** (or Fee Types).
 2.	Click **Add New** (or Add Fee Type).
@@ -55,7 +55,7 @@ Create all required fee types first (tuition, transport, admission, etc.) so the
 
 3.	Click **Submit / Save.**
 
-![Screenshot](./images/feemodule/picture4.png)
+![Screenshot](./images/fees/picture4.png)
 
 ## Verify in Student Profile
 
@@ -63,7 +63,7 @@ Create all required fee types first (tuition, transport, admission, etc.) so the
 2.	Go to the **Fee / Fee Records** section.
 3.	Confirm the **new fee** (title, amount, due date) appears for that student.
 
-![Screenshot](./images/feemodule/picture5.png)
+![Screenshot](./images/fees/picture5.png)
 
 ## Accountant Dashboard Reflection
 
@@ -75,12 +75,12 @@ Create all required fee types first (tuition, transport, admission, etc.) so the
 
 Accountant profile’s dashboard view 
 
-![Screenshot](./images/feemodule/picture6.png)
+![Screenshot](./images/fees/picture6.png)
 
 The admin can view the list of names by clicking the view button 
 
-![Screenshot](./images/feemodule/picture7.png)
+![Screenshot](./images/fees/picture7.png)
 
 Once clicked the list of names will displaced
 
-![Screenshot](./images/feemodule/picture8.png)
+![Screenshot](./images/fees/picture8.png)
