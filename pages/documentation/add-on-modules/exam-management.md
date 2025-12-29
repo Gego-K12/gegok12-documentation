@@ -35,15 +35,15 @@ This guide explains how Admin users can create exams, add exam schedules, and ge
 
 A new form will appear. Enter the required exam details such as:
 
-**•	Class**
+**-	Class**
 
-**•	Exam Name**
+**-	Exam Name**
 
-**•	Term / Category**
+**-	Term / Category**
 
-**•	Description (optional)**
+**-	Description (optional)**
 
-**•	Any additional required fields**
+**-	Any additional required fields**
 
 After filling in all fields, **click** Submit.
 
@@ -70,13 +70,13 @@ A schedule form will appear. Enter:
 
 - **Subject Name**
 
-**•	Exam Date**
+- **Exam Date**
 
-**•	Start Time**
+- **Start Time**
 
-**•	Duration**
+- **Duration**
 
-**•	Portion**
+- **Portion**
 
 Click **Save** once all details are entered.
 
@@ -101,7 +101,7 @@ Hall tickets can be generated directly from the exam list.
 
 **Step 2: Download/Print Hall Tickets**
 
-•	The system will generate hall tickets for students of the selected class.
+- The system will generate hall tickets for students of the selected class.
 
 ![Screenshot](./images/exam/picture9.png)
 

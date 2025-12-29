@@ -67,7 +67,7 @@ Create all required fee types first (tuition, transport, admission, etc.) so the
 
 ## Accountant Dashboard Reflection
 
-•	The newly added fee will reflect on the **Accountant Dashboard** under:
+- The newly added fee will reflect on the **Accountant Dashboard** under:
 
 - **Unpaid Fees / Pending Collections** (if not yet paid)
 - **Fee Due Dates / Upcoming Payments** (based on payment/due date)

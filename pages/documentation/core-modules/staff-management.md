@@ -5,214 +5,753 @@ og:title: "Staff Management Software | GegoK12 HR Solutions"
 og:description: "Streamline employee records, attendance, payroll & performance tracking with GegoK12's integrated staff management module."
 ---
 
-# Staff Management
+# GegoK12 Staff Management Module
 
-Staff management becomes effortless with our school management software. From profiles to records, everything is organized and just a click away
+## How to Add a Teacher
+## Complete Step-by-Step Guide for Admin & Staff
 
-Click Users on the left pane and click staffs and then slect teaching and non teaching based on your requirement
+## **Overview**
+
+The GegoK12 User Management Module allows administrators and authorized staff members to efficiently manage teacher profiles. This guide provides a complete walkthrough on how to add a new teacher into the system, including personal details, qualifications, notes, and address information. Follow the steps carefully to ensure accurate entry and smooth onboarding.
+
+**1. Accessing the User Management Module**
+
+Step 1: Navigate to the Teaching Staff Section
+
+- Go to **Users → Staff → Teaching.**
+
+- This section displays all existing teachers registered in the system.
+
 ![Screenshot](./images/staff/s1.png)
 
----
-## Add Staff
+**2. Creating a New Teacher Profile**
 
-1.  Click Teaching and add the staff by recording all the details
-2.  With the help of the export button you can export the documents from excel.
-3.  With the help of the import button you can import the documents to excel.
+Step 2: Click on **Add**
 
----
+- On the top-right corner, click **Add**
+
+![Screenshot](./images/staff/s2.png)
+ 
+- A new teacher registration form will appear.
+
+**3. Entering Teacher Profile Details**
+
+**Step 3: Fill in Basic & Personal Information**
+
+Record all necessary details, including:
+
+- Full Name
+- Email ID( it is important to login into the teacher profile)
+- Phone Number
+- Aadhar Number
+- Employment ID
+- Date of Birth
+- Other relevant staff information
+
+Ensure all mandatory fields are completed before moving to the next section
+
+![Screenshot](./images/staff/s37.png)
+
+**4. Adding Educational Qualifications**
+
+**Step 4: Enter Qualification Details**
+
+- Provide complete educational background of the teacher.
+
+-Include degree names, specializations, certifications, and institution details.
+
+- Click **Submit** to save and proceed.
+
+A new tab will open after submission.
+
+![Screenshot](./images/staff/s38.png)
+
+**5. Recording Notes & Additional Information**
+
+**Step 5: Enter Notes**
+
+- Add important remarks relating to the staff member.
+
+- These may include internal notes, special instructions, or HR-related information.
+
+- Click **Submit** to save the notes.
+
+A new tab will open after saving the notes.
+
+![Screenshot](./images/staff/s39.png)
+
+**6. Recording Address Information**
+
+**Step 6: Enter Address Details**
+
+Fill in the teacher's complete residential details including:
+
+- Address Line
+- Country
+- State
+- City
+- Pincode
+
+Click **Submit** after completing all fields.
+
+![Screenshot](./images/staff/s40.png)
+
+**7. Successful Profile Creation**
+
+**Step 7: Final Confirmation**
+
+Once all details are submitted:
+
+- The teacher’s profile is successfully created and saved in the portal.
+
+- You can now view, edit, or manage the teacher’s profile from the Teaching Staff list.
+
+**Your teacher profile setup is now complete!**
+
+![Screenshot](./images/staff/s41.png)
+
+**8. How to Filter & Search Options for Teaching Staff**
+ 
+![Screenshot](./images/staff/s5.png)
+
+When viewing the **Teaching Staff** list, administrators can efficiently locate specific teachers using the built-in filtering tools:
+
+**Search Bar**
+
+- Allows the admin to search teacher profiles using keywords such as name, ID, email, or phone number.
+
+- Helps quickly locate specific staff members in large institutions
+
+![Screenshot](./images/staff/s42.png)
+
+![Screenshot](./images/staff/s43.png)
+
+
+**Alphabetical Filter**
+
+- Displays buttons from **A–Z**  for easy alphabetical filtering.
+
+- Clicking a letter shows all teachers whose names begin with that letter.
+
+![Screenshot](./images/staff/s44.png)
+
+![Screenshot](./images/staff/s45.png)
+
+- Ideal for quick navigation through long staff lists.
+
+These filtering tools help streamline staff management and improve admin efficiency.
+
+**9.How to Import & Export the teacher’s details**
 
 ![Screenshot](./images/staff/s2.png)
 
-4.	Teacher can view the ID card 
-5.	Staff Attendance can be marked here if the teacher is absent 
+When you reach the **Teaching Staff** list page, you will find additional bulk management tools next to the **Add** button:
+
+**2a.Import Teachers**
+
+![Screenshot](./images/staff/s46.png)
+
+This feature allows you to upload multiple teacher profiles at once.
+
+- Click **Import.**
+
+- Download the system-provided sample file.
+
+- Fill in all teacher details such as Name, Email, Mobile Number, Department, Aadhar No, Employment ID, etc.
+
+- Upload the file back into the portal.
+
+- The system validates the data and displays any errors that need correction.
+
+- Once validated, all teacher profiles are added instantly.
+
+**2b. Export Teachers**
+
+![Screenshot](./images/staff/s47.png)
+
+This option helps you download the existing teacher list in bulk.
+
+- Click **Export.**
+
+- The system downloads the teacher database in Excel/CSV format.
+
+- Useful for data backup, audits, HR documents, or verifying staff records.
+
+These import/export tools make large-scale data management efficient and minimize manual entry work.
+
+**2c.The ID Card can generated in seconds by clicking ID card. The ID can also be printed.**
 
 ![Screenshot](./images/staff/s3.png)
 
----
+![Screenshot](./images/staff/s48.png)
 
-The number of teachers added in the portal will be shown
-![Screenshot](./images/staff/s4.png)
+**10. How to add Attendance by the Admin**
 
----
+The admin can mark the attendance using the attendance tab. Fill all the details such as date, session, reason and remarks and click save and submit. The same will be reflected in the teacher’s profile….
 
-## Search and Filter Staff
+<span style="color:red">For more info ( Check how to add the attendance link) </span>
 
-You can use search button to filter the students based on your query
-![Screenshot](./images/staff/s5.png)
+![Screenshot](./images/staff/s49.png)
 
----
+**11. Additional Profile Tabs**
 
-The added teachers will be listed down here
-![Screenshot](./images/staff/s6.png)
+**The admin can add the Additional Profile Tabs (After the Teacher’s Profile Is Created)**
 
----
+Once the teacher’s profile is saved, several tabs become available for further management of the teacher’s information in the admin dashboard.
 
-## Send Message
-
-Click any of the teacher and messages can be sent
-![Screenshot](./images/staff/s7.png)
-
----
-## Staff Details
-
-Teacher’s full details can be viewed here.
 ![Screenshot](./images/staff/s8.png)
 
-### Staff Profile
+**Profile**
 
-1.  Access the complete student profile in one place.
+Displays all basic personal, professional, and contact details of the teacher.
 
 ![Screenshot](./images/staff/s9a.png)
 
-### Timeline
+**Timeline**
 
-2.  Track every change made to the student’s record.
+Shows chronological activities and updates related to the teacher, such as profile edits, class assignments, document uploads, etc.
 
 ![Screenshot](./images/staff/s10.png)
 
-### Assigned Class
+**Assigned Classes**
 
-3.  Assigned classes can be viewed
+Lists all the classes, subjects, and schedules assigned to the teacher. Helps administrators quickly verify teaching responsibilities.
+
+Classes can be assigned by the admin. Click the link for the detailed tutorial
+
+[https://docs.gegok12.com/documentation/core-modules/class-section-management](https://docs.gegok12.com/documentation/core-modules/class-section-management)
 
 ![Screenshot](./images/staff/s11.png)
 
-### Leave History
-4.  Check the student’s leave history.
+**Leave History**
+
+Displays all approved, pending, and rejected leave applications submitted by the teacher. Useful for attendance and payroll management.
 
 ![Screenshot](./images/staff/s12.png)
 
-5.  Highlight and view important notes about the student.
+**Notes**
+
+Section for internal remarks or HR notes. These notes are only visible to admin-level users.
 
 ![Screenshot](./images/staff/s13.png)
 
-6.  Important documents can shown here
-7.  Review bank details securely.
-8.  Monitor attendance records with ease.
-9.  Track the teacher’s library usage and borrowed books.
+**Documents**
 
-### Staff Actions and Controls
+Allows uploading and storing essential teacher documents such as certificates, ID proofs, appointment letters, contracts, etc.
+
+Click Add on the top-right corner to upload teacher-related documents. You can:
+
+- **Add** certificates
+
+- Upload ID proofs
+
+- Attach appointment/experience letters
+
+- Upload any other supporting documents
+
+After selecting and uploading the required files:
+
+- Click **Submit** to save the documents
+
+- The uploaded files will be successfully stored and displayed in the teacher’s profile for future reference. Allows uploading and storing essential teacher documents such as certificates, ID proofs, appointment letters, contracts, etc.
+
+![Screenshot](./images/staff/s50.png)
+
+![Screenshot](./images/staff/s51.png)
+
+![Screenshot](./images/staff/s52.png)
+
+**Bank Details**
+
+Used to store salary processing information such as bank account number, IFSC, branch, and other payment-related details.
+
+Click **Add** on the top-right corner to enter the teacher’s bank information. You can:
+
+- Add bank account number
+
+- Enter IFSC code
+
+- Specify bank name and branch details
+
+- Provide any additional salary-related banking information
+
+After filling in the details:
+
+- Click **Submit** to save
+
+- The bank details will be securely stored and displayed in the teacher’s profile for future payroll processing.
+Used to store salary processing information such as bank account number, IFSC, branch, and other payment-related details.
+
+![Screenshot](./images/staff/s53.png)
+
+![Screenshot](./images/staff/s57.png)
+
+![Screenshot](./images/staff/s54.png)
+
+
+**Attendance**
+
+Displays the teacher’s monthly attendance records, including present days, leave, and late entries.
+
+![Screenshot](./images/staff/s55.png)
+
+**Library Activities**
+
+Shows the teacher’s library usage such as borrowed books, return dates, overdue alerts, and book history.
+The admin can check the library activities such as issue date , return date and status of the book taken from the library 
+
+These tabs help provide a complete, well-organized record of each teacher within the institution’s system.
+
+![Screenshot](./images/staff/s56.png)
+
+## **Additional Actions Available in Teacher Profile**
+
+When viewing a teacher’s complete profile, administrators have access to several important action buttons for managing account status, verification, and credentials.
+
 ![Screenshot](./images/staff/s14.png)
 
-1. Teacher info can be Deactivated
-2. Exit to be clicked to exit from the window
-3. Email can be verified
-4. Can login as a teacher
-5. Teacher ID can be viewed
+**1.Deactivate**
 
-<span style="color:red">Teacher credentials like ID and PWD can be viewed and it can be changed here as well</span>
+- Click Deactivate  to disable the teacher’s account without permanently deleting it.
 
----
+- Change the status to OK if you want to deactivate  
 
-## How to Manage the Teacher Profile
+- Helpful when a staff member resigns, goes on long-term leave, or is temporarily inactive.
 
-1.	Login with the teacher credentials
-2.	A new dashboard will open,the overview of the dashboard is shown below
+- The teacher will no longer be able to log in after deactivation.
+
+![Screenshot](./images/staff/s58.png)
+
+![Screenshot](./images/staff/s60.png)
+
+**2.Exit**
+
+- Click Exit to permanently exit the teacher’s account.
+
+- Change the status to **OK** if you want to exit the teacher 
+
+- Allows the admin to exit the current profile view and return to the main teacher list.
+
+- Useful for quick navigation.
+![Screenshot](./images/staff/s59.png)
+
+![Screenshot](./images/staff/s60.png)
+
+**3.Verify Email**
+
+Click  verify email to the teacher’s registered email address.
+
+- Sends a verification email to the teacher’s registered email address.
+
+- Ensures the email is active and valid for communication and login recovery.
+
+- Status updates once the teacher verifies the email.
+
+![Screenshot](./images/staff/s61.png)
+
+**4.Login as Teacher**
+
+- Allows the admin to temporarily log in as the teacher by clicking Login as Teacher 
+
+- The teacher’s dashboard will be opened 
+
+- Useful for checking issues, verifying dashboard access, or troubleshooting user complaints.
+
+- All actions performed are logged for security.
+
+![Screenshot](./images/staff/s62.png)
 
 ![Screenshot](./images/staff/s15.png)
 
-3.	Click classes tab and view the list of classes handled by the teacher
+![Screenshot](./images/staff/s67.png)
 
-![Screenshot](./images/staff/s16.png)
+**5.ID Card**
 
-### Homework
+- Generates or displays the teacher’s digital ID card.
 
-4.	Click Homeworks to view the list of home work given by the teacher. The teacher can add home work by clicking the add button on the right top.
+- Can be downloaded or printed for school records.
 
-![Screenshot](./images/staff/s17.png)
-
-### Assignment
-
-5.	Click assignment from the left pane and add assignment by filling the details as done below and click submit. The assignment will added successfully and sent to the students profile.
-
-![Screenshot](./images/staff/s18.png)
-![Screenshot](./images/staff/s19.png)
-
-### Library Activity
-
-6.	Click library activity to view the library details 
-
-![Screenshot](./images/staff/s20.png)
-
-### Video Room
-
-7.	The teacher can create a video room by clicking on the video room module and then add button on the right top and fill all the details, a new video room will be created 
-
-![Screenshot](./images/staff/s21.png)
-
-<span style="color:red">Note: The invitees can be managed by the teacher.</span>
-
-### Calendar
-
-8.	By clicking on the calendar, the teacher can view the list of events marked in the calendar 
-
-![Screenshot](./images/staff/s22.png)
-
-### Notice Board
-
-9.	By clicking on the notice board , the teacher can view the digital notices
-
-![Screenshot](./images/staff/s23.png)
-
-### Chat Room
-
-10.	By clicking on the chat room module the teacher can view the chat room’s which are active for communication
-
-![Screenshot](./images/staff/s24.png)
-
-### Reception
-
-11.	By clicking on the reception module, the teacher can create visitor log, call log and postal record
-Visitor Log 
-11a. Click visitor log from the left pane of the dashboard
-11b. Click Add button the right top corner 
-
-![Screenshot](./images/staff/s25.png)
-
-11c. Fill all the details in the form and click submit
-
-![Screenshot](./images/staff/s26.png)
-
-11d. The visitor details will be added in the visitor 
-
-![Screenshot](./images/staff/s27.png)
-
-## Leave Management
-
-12.	Click leave from the left side of the pane and click add leave from the right top corner to apply for leave. The leave applications will also be displayed in the leave section. 
-
-![Screenshot](./images/staff/s28.png)
-
-<span style="color:red">Note: The leave status will be changed if the principal approves the leave</span>
-
-13.	Click holiday to display the holidays of the year
-
-![Screenshot](./images/staff/s29.png)
-
-14.	The teacher can add online assessment by clicking on the online assessment and click add button on the right top corner , record all the details and click submit . The assessment will be created and sent to the parents for completion.
-
-![Screenshot](./images/staff/s30.png)
-
-## Lesson Plan
-
-15.	Click Lesson plan module from the left pane. 
-
-15a. Click Add button on the right top corner.
-
-15b.Fill all the details and click save
+- Includes essential staff identification details.
 
 
-![Screenshot](./images/staff/s31.png)
-![Screenshot](./images/staff/s32.png)
-![Screenshot](./images/staff/s33.png)
+![Screenshot](./images/staff/s3.png)
 
-15d.The lesson plan will be displayed in the lesson plan tab.
+![Screenshot](./images/staff/s48.png)
 
-![Screenshot](./images/staff/s34.png)
+**6.Credentials**
 
-16.	Click exams , the upcoming exam schedule will displayed
+- Provides access to the teacher’s login credentials.
 
-![Screenshot](./images/staff/s35.png)
+- Allows the admin to view or regenerate the username and password.
 
-17.	Click to do list and add a task for self, students or teachers , finally click and save . The list of tasks will be displayed and reminders will also be given to complete the task before time. 
+- Useful for onboarding or assisting teachers who forget their login details
 
-![Screenshot](./images/staff/s36.png)
+
+![Screenshot](./images/staff/s70.png)
+
+![Screenshot](./images/staff/s71.png)
+
+### 1.How to Add a Non Teaching Staff
+
+**There are various categories of non-teaching staff in the school, and the same procedure applies to all non-teaching staff members.**
+
+Menu Path
+
+**Users → Staff → Non-Teaching**
+
+Steps
+
+1.	Log in with your **Admin** credentials.
+
+2.	From the left menu, go to **Users.**
+
+3.	Click **on Staff.**
+
+4.	Select **Non-Teaching.**
+
+5.	A new tab will open showing the list of non-teaching staff.
+
+6.	Click the **Add (+)** button to create a new non-teaching staff profile.
+
+
+![Screenshot](./images/staff/s72.png)
+
+
+**1.1.How to Add an Accountant**
+
+Menu path 
+
+**Users ----Staff ----Non teaching ----- Add**
+
+
+![Screenshot](./images/staff/s73.png)
+
+**1.2. Fill in Basic Profile Details**
+
+Once you click **Add**, a new staff creation form opens.
+
+Enter the Required Details
+
+- **Name**
+- **Mobile Number**
+- **Email ID** (This will be used as the Login Username)
+- **Designation → Select Accountant**
+
+After entering all the details, **click** Submit.
+
+![Screenshot](./images/staff/s37.png)
+
+**1.3 Add Educational Qualification**
+
+Once the basic details are saved:
+
+1.	A new tab **Educational Qualification** will open.
+
+2.	Enter all qualification details such as:
+
+- UG Degree
+- PG Degree
+- Subject Specialization etc
+
+3.	Click **Submit** to proceed.
+
+![Screenshot](./images/staff/s38.png)
+
+**1.4 Add Notes (Optional)**
+
+The next tab shows the **Notes** section.
+
+- Enter any internal notes related to the staff (optional).
+
+- Click **Submit** to move to the next step.
+
+![Screenshot](./images/staff/s39.png)
+
+**1.5 Add Address Details**
+
+A new tab labelled Address will appear.
+
+1.	Enter the complete **address** of the accountant.
+
+2.	Review the details.
+
+3.	Click **Submit.**
+
+Once this final section is completed, the accountant’s profile is fully created.
+
+![Screenshot](./images/staff/s40.png)
+
+### 2. Login Credentials Creation
+
+After all steps are completed, **GegoK12 automatically generates the login credentials** for the Accountant.
+Default Login Credentials
+
+- **Username:**  The Email ID entered during staff creation
+- **Password:**  password (A default password)
+
+**Note:**
+
+The Accountant can change this password later from the profile settings.
+
+**The ID card can be generated and printed from the admin’s profile**
+
+![Screenshot](./images/staff/s48.png)
+
+### 3. Completion
+
+The **Accountant login is now successfully** created, and the staff can access the Accountant Module with the generated credentials.
+
+![Screenshot](./images/staff/s73.png)
+
+**Additional modules**
+
+From the Accountant’s profile page, the admin can
+
+- Edit Profile
+- Delete Profile
+- View Profile
+- View timeline
+- Add Notes
+- Upload Documents
+- Record Bank Details
+
+The Accountant can login with the credentials given by the Admin
+
+**Login Id:** The mail id given by the Admin
+
+**Password:** Password(By default)  
+
+The password can be changed later by the accountant in the accountant’s profile
+
+![Screenshot](./images/staff/s74.png)
+
+The accountant can view the unpaid fee by clicking on to it 
+
+![Screenshot](./images/staff/s75.png)
+
+The accountant can schedule the structural and other fee
+
+![Screenshot](./images/staff/s76.png)
+
+To know more details about accountant module click Account management 
+
+[https://docs.gegok12.com/documentation/core-modules/account-management](https://docs.gegok12.com/documentation/core-modules/account-management)
+
+### 4. Creating a Receptionist (Admin Guide)
+
+**4.1 Navigate to Non-Teaching Staff**
+
+Menu Path:
+
+**Users → Staffs → Non-Teaching Staff**
+
+Click Add New Staff to begin creating the profile.
+
+Step 1: Go to users ---- Staffs ---- Non Teaching 
+
+![Screenshot](./images/staff/s72.png)
+
+**4.2 Fill Basic Profile Details**
+
+A staff creation form will open. Enter all required information such as:
+
+- Name
+- Mobile Number
+- Email (Used as Login ID)
+- Designation → **Receptionist**
+
+Click **Submit** to move to the next tab.
+
+**Note:** Email ID is mandatory. It becomes the Receptionist’s login username.
+
+![Screenshot](./images/staff/s37.png)
+
+**4.3 Add Educational Qualification**
+
+Fill in the relevant qualification details and click **Submit.**
+
+![Screenshot](./images/staff/s38.png)
+ 
+**4.4 Add Notes**
+
+Add any internal notes related to the receptionist profile.
+
+![Screenshot](./images/staff/s39.png)
+
+Click **Submit.**
+ 
+**4.5 Enter Address**
+
+Add communication and permanent address information.
+
+Click **Submit** to complete the creation process.
+
+![Screenshot](./images/staff/s40.png)
+
+**4.6 Login Auto-Creation for Receptionist**
+
+Once all steps are completed, GegoK12 automatically creates the login credentials:
+
+- **Username:** Email entered by the admin
+- **Password:** password (Receptionist can change it later)
+- The receptionist can later update their password using **Change Password** inside their dashboard.
+
+![Screenshot](./images/staff/s73.png)
+ 
+**4.7 Additional Admin Controls**
+
+From the receptionist’s profile page, the admin can:
+
+- **Edit Profile**
+
+- **Delete Profile**
+
+- **View Timeline**
+
+- **Add Notes**
+
+- **Upload Documents**
+
+- **Record Bank Details**
+
+![Screenshot](./images/staff/s77.png)
+
+**Check Timeline**
+
+**Step 8:** The timeline shows the list of activities in the receptionist profile
+
+![Screenshot](./images/staff/s10.png)
+ 
+**Enter Notes**
+
+**Step 9:** Any important details about the profile can be recorded here. Once done click submit
+
+![Screenshot](./images/staff/s13.png)
+  
+**Upload Documents**
+
+**Step 10:** Click Documents and add the documents for future use by clicking the add button and click submit. 
+
+![Screenshot](./images/staff/s50.png)
+
+![Screenshot](./images/staff/s51.png)
+
+![Screenshot](./images/staff/s52.png)
+ 
+**Enter Bank Details**
+
+**Step11:** Bank details can be added here for the future use by clicking the Add button 
+
+![Screenshot](./images/staff/s53.png)
+
+![Screenshot](./images/staff/s57.png)
+
+![Screenshot](./images/staff/s54.png)
+ 
+<span style="color:red"> Once the admin creates the receptionist login the receptionist can login in the portal login with Mail Id as the given mail id during the form craetion and password as password. The password can be changed if required by using change password.  </span> 
+
+<span style="color:red"> The password can be changed from the receptionist login by clicking change password </span> 
+
+![Screenshot](./images/staff/s79.png)
+
+<span style="color:red"> Link – You can click the given link to know “How to Login as a receptionist”</span>  
+
+[https://docs.gegok12.com/documentation/core-modules/reception-management](https://docs.gegok12.com/documentation/core-modules/reception-management)
+
+- **Username:** Email entered by the admin
+
+- **Password:** password (Receptionist can change it later)
+
+**The ID card can be generated and printed from the admin’s profile**
+
+![Screenshot](./images/staff/s48.png)
+
+![Screenshot](./images/staff/s80.png)
+
+### 5.How to Add the librarian?
+
+**5.1.Navigate to Non-Teaching Staff**
+
+Menu Path:
+
+**Users → Staffs → Non-Teaching Staff**
+
+Click Add New Staff to begin creating the profile.
+
+**Step 1:** Go to **users ---- Staffs ---- Non Teaching** 
+
+![Screenshot](./images/staff/s72.png)
+ 
+**5.2 Fill Basic Profile Details**
+
+A staff creation form will open. Enter all required information such as:
+
+- Name
+
+- Mobile Number
+
+- Email (Used as Login ID)
+
+- Designation → **Librarian**
+
+Click **Submit** to move to the next tab.
+
+**Note:** Email ID is mandatory. It becomes the Librarian’s login username.
+
+![Screenshot](./images/staff/s37.png)
+ 
+**5.3.Add Educational Qualification**
+
+Fill in the relevant qualification details and click **Submit.**
+
+![Screenshot](./images/staff/s38.png)
+
+**5.4.Add Notes**
+
+Add any internal notes related to the receptionist profile.
+
+Click **Submit.**
+
+![Screenshot](./images/staff/s39.png)
+
+**5.5. Enter Address**
+
+Add communication and permanent address information.
+
+Click **Submit** to complete the creation process.
+
+![Screenshot](./images/staff/s40.png)
+ 
+**The ID card can be generated and printed from the admin’s profile**
+
+![Screenshot](./images/staff/s48.png)
+
+## **Login Auto-Creation for Librarian**
+
+Once all steps are completed, GegoK12 automatically creates the **login credentials:**
+
+- **Username:** Email entered by the admin
+
+- **Password:** password ( can change it later)
+
+- The librarian can later update their password using **Change Password** inside their dashboard.
+
+<span style="color:red">Link – You can click the given link to know “ The working of  library management”
+
+[https://docs.gegok12.com/documentation/core-modules/library-management](https://docs.gegok12.com/documentation/core-modules/library-management) </span>
+
+![Screenshot](./images/staff/s80.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

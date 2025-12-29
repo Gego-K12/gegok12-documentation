@@ -67,7 +67,7 @@ The School Details section stores essential information about the institution. T
 
 **Editing**
 
-•	Click the Edit button in the top-right corner to update the school details at any time.
+- Click the Edit button in the top-right corner to update the school details at any time.
 
 **Admission Status Note**
 
@@ -77,9 +77,9 @@ The School Details section stores essential information about the institution. T
 
 **Viewing the Online Admission Form**
 
-•	Click **View** → The admission form opens.
+- Click **View** → The admission form opens.
 
-•	It includes **5 steps:**
+- It includes **5 steps:**
 
 1.	Standard Details
 2.	Student Details
@@ -95,15 +95,15 @@ The school details information will be displayed in the Teachers & Parent App on
 
 **Use of Online Admission Form**
 
-•	Allows parents or administrators to capture complete student information digitally.
+- Allows parents or administrators to capture complete student information digitally.
 
-•	Reduces manual entry, improves accuracy, and streamlines admission workflow.
+- Reduces manual entry, improves accuracy, and streamlines admission workflow.
 
 **Standard Details**
 
-•	Select the admission class and click Next.
+- Select the admission class and click Next.
 
-![Screenshot](./images/settings/pics.png)
+![Screenshot](./images/settings/picture56.png)
 
 **Student Details**
 
@@ -133,15 +133,15 @@ Record:
 
 **Note:**
 
-**•	Group selection and board registration apply only for Grade X, XI & XII.**
+**Group selection and board registration apply only for Grade X, XI & XII.**
 
 ![Screenshot](./images/settings/picture12.png)
 
 Click **Next.**
 
-**arent Details**
+**Parent Details**
 
-•	Record all parent/guardian information.
+-Record all parent/guardian information.
 
 ![Screenshot](./images/settings/picture13.png)
 
@@ -149,29 +149,29 @@ Click **Next.**
 
 **Personal Details**
 
-•	Complete remaining personal information.
+Complete remaining personal information.
 
 ![Screenshot](./images/settings/picture15.png)
 
 After submission:
 
-•	A **new application form** is successfully added.
+A **new application form** is successfully added.
 
 ![Screenshot](./images/settings/picture16.png)
 
 ## Additional Notes for School Details
 
-•	School information can be edited any time.
+- School information can be edited any time.
 
 ![Screenshot](./images/settings/picture17.png)
 
-•	Admission status can be set to **Active/Inactive.**
+- Admission status can be set to **Active/Inactive.**
 
 ![Screenshot](./images/settings/picture18.png)
 
-•	You can reset all details using the **Reset** button.
+- You can reset all details using the **Reset** button.
 
-•	School details appear in the **Teacher App** and **Parent App** once they log in.
+- School details appear in the **Teacher App** and **Parent App** once they log in.
 
 ## Academic Years
 
@@ -293,7 +293,7 @@ Allows admin to set all school holidays for the academic year.
 **Holiday List Reflection in Teacher’s Profile**
 
 Login as a Teacher with the credentials given by the admin. To check how to login Click 
-[https://docs.gegok12.com/documentation](https://docs.gegok12.com/documentation)
+[https://docs.gegok12.com/documentation/core-modules/holiday-list](https://docs.gegok12.com/documentation/core-modules/holiday-list)
 
 Go to Dashboard ----- Holidays (The list of holidays will be displayed)
 
@@ -363,9 +363,10 @@ Displays the list of graded brackets defined for assessment.
 1.	Click **Settings → Exam Grades.**
 2.	View the preconfigured exam grades.
 
-![Screenshot](./images/settings/picture42.png)
 
 ![Screenshot](./images/settings/picture43.png)
+
+![Screenshot](./images/settings/picture55.png)
 
 - The list of exam grades configured will be displayed here for reference.
 
@@ -380,7 +381,7 @@ Manages promotion workflow from one class to the next.
 - Before promotions, ensure **Exam Module** is properly set up.
 - Reference guide:
 
-[https://docs.gegok12.com/documentation](https://docs.gegok12.com/documentation)
+[https://docs.gegok12.com/documentation/add-on-modules/exam-management](https://docs.gegok12.com/documentation/add-on-modules/exam-management)
 
 ![Screenshot](./images/settings/picture45.png)
 ![Screenshot](./images/settings/picture46.png)
@@ -414,7 +415,8 @@ Common types:
 
 **Full Leave Module Reference**
 
-[https://docs.google.com/document/d/1w-PXiFZ5NLj2kPf8zTsFvEDeIUPAC0eojnLA4pv7iaA/](https://docs.google.com/document/d/1w-PXiFZ5NLj2kPf8zTsFvEDeIUPAC0eojnLA4pv7iaA/)
+[https://docs.gegok12.com/documentation/core-modules/leave-master](https://docs.gegok12.com/documentation/core-modules/leave-master)
+
 ![Screenshot](./images/settings/picture48.png)
 Define different leave types for clarity, such as Earned Leave, Casual Leave, Sick Leave, Maternity Leave, Quarantine Leave, and Study Leave.
 
