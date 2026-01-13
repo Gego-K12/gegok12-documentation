@@ -219,7 +219,7 @@ Lists all the classes, subjects, and schedules assigned to the teacher. Helps ad
 
 Classes can be assigned by the admin. Click the link for the detailed tutorial
 
-[https://docs.gegok12.com/documentation/core-modules/class-section-management](https://docs.gegok12.com/documentation/core-modules/class-section-management)
+[Open the Class Section Management Guider](https://docs.gegok12.com/documentation/core-modules/class-section-management)
 
 ![Screenshot](./images/staff/s11.png)
 
@@ -535,7 +535,7 @@ The accountant can schedule the structural and other fee
 
 To know more details about accountant module click Account management 
 
-[https://docs.gegok12.com/documentation/core-modules/account-management](https://docs.gegok12.com/documentation/core-modules/account-management)
+[Open the Account Management Guide](/documentation/core-modules/account-management)
 
 ### 4. Creating a Receptionist (Admin Guide)
 
@@ -656,7 +656,7 @@ From the receptionist’s profile page, the admin can:
 
 <span style="color:red"> Link – You can click the given link to know “How to Login as a receptionist”</span>  
 
-[https://docs.gegok12.com/documentation/core-modules/reception-management](https://docs.gegok12.com/documentation/core-modules/reception-management)
+[Open the Reception Management Guider](/documentation/core-modules/reception-management)
 
 - **Username:** Email entered by the admin
 
@@ -738,7 +738,7 @@ Once all steps are completed, GegoK12 automatically creates the **login credenti
 
 <span style="color:red">Link – You can click the given link to know “ The working of  library management”
 
-[https://docs.gegok12.com/documentation/core-modules/library-management](https://docs.gegok12.com/documentation/core-modules/library-management) </span>
+[Open the library management Guider](/documentation/core-modules/library-management) </span>
 
 ![Screenshot](./images/staff/s80.png)
 

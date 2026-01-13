@@ -293,7 +293,8 @@ Allows admin to set all school holidays for the academic year.
 **Holiday List Reflection in Teacher’s Profile**
 
 Login as a Teacher with the credentials given by the admin. To check how to login Click 
-[https://docs.gegok12.com/documentation/core-modules/holiday-list](https://docs.gegok12.com/documentation/core-modules/holiday-list)
+
+[Open the Holiday List Guide](/documentation/core-modules/holiday-list)
 
 Go to Dashboard ----- Holidays (The list of holidays will be displayed)
 
@@ -381,7 +382,7 @@ Manages promotion workflow from one class to the next.
 - Before promotions, ensure **Exam Module** is properly set up.
 - Reference guide:
 
-[https://docs.gegok12.com/documentation/add-on-modules/exam-management](https://docs.gegok12.com/documentation/add-on-modules/exam-management)
+[Open the Exam Management Guide](/documentation/add-on-modules/exam-management)
 
 ![Screenshot](./images/settings/picture45.png)
 ![Screenshot](./images/settings/picture46.png)
@@ -415,7 +416,7 @@ Common types:
 
 **Full Leave Module Reference**
 
-[https://docs.gegok12.com/documentation/core-modules/leave-master](https://docs.gegok12.com/documentation/core-modules/leave-master)
+[Open the Leave Master Guide](/documentation/core-modules/leave-master)
 
 ![Screenshot](./images/settings/picture48.png)
 Define different leave types for clarity, such as Earned Leave, Casual Leave, Sick Leave, Maternity Leave, Quarantine Leave, and Study Leave.
