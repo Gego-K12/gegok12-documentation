@@ -26,7 +26,7 @@ The Core Modules in GegoK12 form the essential foundation for daily academic and
 - [Lessson plans for teachers](/documentation/core-modules/lesson-management)
 - [Idcard and buspass generation](/documentation/core-modules/id-card)
 - [Dashboard & Reports](/documentation/core-modules/dashboard-management)
-- Parent Management
+- [Parent Management](/documentation/core-modules/parent-management)
 - [Library Management](/documentation/core-modules/library-management)
 - [Reception Management](/documentation/core-modules/reception-management)
 - [Account Management](/documentation/core-modules/account-management)
