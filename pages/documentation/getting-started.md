@@ -22,6 +22,19 @@ Ensure you have the following installed on your system:
 - Git
 - Laragon or "XAMPP" or similar PHP Dev Platform
 - Redis (Optional)
+---
+## Installation Guide (Video Reference)
+
+For detailed installation and setup instructions, please watch the video provided below:
+<div style="margin: 40px;">
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/dh1DuLLP-Xk?si=r15ld6I-0fKDVxh2" 
+title="Installation Video Guide" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+</div>
 
 ---
 
