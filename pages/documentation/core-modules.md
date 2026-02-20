@@ -26,7 +26,7 @@ The Core Modules in GegoK12 form the essential foundation for daily academic and
 - [Lessson plans for teachers](/documentation/core-modules/lesson-management)
 - [Idcard and buspass generation](/documentation/core-modules/id-card)
 - [Dashboard & Reports](/documentation/core-modules/dashboard-management)
-- Parent Management
+- [Parent Management](/documentation/core-modules/parent-management)
 - [Library Management](/documentation/core-modules/library-management)
 - [Reception Management](/documentation/core-modules/reception-management)
 - [Account Management](/documentation/core-modules/account-management)
@@ -35,7 +35,7 @@ The Core Modules in GegoK12 form the essential foundation for daily academic and
 - [Media files such audio,video images,magazine](/documentation/core-modules/media-management)
 - [Discipline records](/documentation/core-modules/discipline-record)
 - [Telephone Directory](/documentation/core-modules/telephone-directory-management)
-- Task management
+- [Task Management](/documentation/core-modules/task-management)
 - [Class wall like posts,likes and comments](/documentation/core-modules/class-wall-management)
 - [Promotion](/documentation/core-modules/promotion-management)
 - [Admissions](/documentation/core-modules/admission-management)

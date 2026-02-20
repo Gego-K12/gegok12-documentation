@@ -25,7 +25,7 @@ The Reception Module gives receptionists their own **login, dashboard**, and **w
 
 This ensures transparency, accountability, and a smooth front-desk experience for the entire school community.
 
-![Screenshot](./images/reception/p1.png)
+![Screenshot](./images/reception/reception1.png)
 
 ## Creating a Receptionist (Admin Guide)
 
@@ -52,7 +52,7 @@ A staff creation form will open. Enter all required information such as:
 
 Click **Submit** to move to the next tab.
 
-![Screenshot](./images/reception/re3.png)
+![Screenshot](./images/reception/reception2.png)
 <span style="color:red">Note: Email ID is mandatory. It becomes the Receptionist’s login username.</span>
 
 ---
@@ -61,7 +61,7 @@ Click **Submit** to move to the next tab.
 
 Fill in the relevant qualification details and click **Submit**.
 
-![Screenshot](./images/reception/re4.png)
+![Screenshot](./images/reception/reception3.png)
 
 ---
 
@@ -71,7 +71,7 @@ Add any internal notes related to the receptionist profile.
 
 Click **Submit**.
 
-![Screenshot](./images/reception/re5.png)
+![Screenshot](./images/reception/reception4.png)
 
 ---
 
@@ -81,7 +81,7 @@ Add communication and permanent address information.
 
 Click **Submit** to complete the creation process.
 
-![Screenshot](./images/reception/re6.png)
+![Screenshot](./images/reception/reception5.png)
 
 ---
 
@@ -92,7 +92,7 @@ Once all steps are completed, GegoK12 automatically creates the login credential
 - **Username:** Email entered by the admin
 - **Password:** <span style="color:green">password</span> (Receptionist can change it later)
 
-![Screenshot](./images/reception/re7.png)
+![Screenshot](./images/reception/reception6.png)
 
 The receptionist can later update their password using **Change Password** inside their dashboard.
 
@@ -109,29 +109,27 @@ From the receptionist’s profile page, the admin can:
 - Upload **Documents**
 - Record **Bank Details**
 
-![Screenshot](./images/reception/re8.png)
+![Screenshot](./images/reception/reception7.png)
 
 View Timeline by clicking on it
 
-![Screenshot](./images/reception/re9.png)
+![Screenshot](./images/reception/reception8.png)
 
 Add notes and click submit
 
-![Screenshot](./images/reception/re10.png)
+![Screenshot](./images/reception/reception9.png)
 
-![Screenshot](./images/reception/re11.png)
+![Screenshot](./images/reception/reception10.png)
 
 Upload documents such certificates, ID proofs & other documents and click submit
 
-![Screenshot](./images/reception/re112.png)
+![Screenshot](./images/reception/reception11.png)
 
-![Screenshot](./images/reception/re13.png)
+![Screenshot](./images/reception/reception12.png)
 
 Enter bank details for the the salary processing
 
-![Screenshot](./images/reception/re14.png)
-
-![Screenshot](./images/reception/re15.png)
+![Screenshot](./images/reception/reception13.png)
 
 ---
 
@@ -146,7 +144,7 @@ Receptionists log in through the school portal using:
 
 They may change their password after login.
 
-![Screenshot](./images/reception/re16.png)
+![Screenshot](./images/reception/reception14.png)
 
 ---
 
@@ -171,7 +169,7 @@ The left pane contains quick access to all relevant modules:
 - Notice Board
 - Activity Log
 
-![Screenshot](./images/reception/re17.png)
+![Screenshot](./images/reception/reception.png)
 
 ---
 
@@ -213,9 +211,7 @@ Steps:
 
 ![Screenshot](./images/reception/re21.png)
 
-![Screenshot](./images/reception/re22.png)
-
-![Screenshot](./images/reception/re23.png)
+![Screenshot](./images/reception/reception15.png)
 
 ---
 
@@ -276,11 +272,11 @@ This is one of the core responsibilities of a receptionist.
 3. Fill visitor information
 4. Click **Submit**
 
-![Screenshot](./images/reception/re24.png)
+![Screenshot](./images/reception/reception16.png)
 
-![Screenshot](./images/reception/re25.png)
+![Screenshot](./images/reception/reception17.png)
 
-![Screenshot](./images/reception/re26.png)
+![Screenshot](./images/reception/reception18.png)
 
 ---
 
@@ -328,9 +324,9 @@ A structured Call Log ensures:
 
 ![Screenshot](./images/reception/re28.png)
 
-![Screenshot](./images/reception/re29.png)
+![Screenshot](./images/reception/reception19.png)
 
-![Screenshot](./images/reception/re30.png)
+![Screenshot](./images/reception/reception20.png)
 
 ---
 
@@ -365,11 +361,10 @@ Digitizing postal management ensures:
 
 ![Screenshot](./images/reception/re31.png)
 
-![Screenshot](./images/reception/re32.png)
 
-![Screenshot](./images/reception/re33.png)
+![Screenshot](./images/reception/reception20.png)
 
-![Screenshot](./images/reception/re34.png)
+![Screenshot](./images/reception/reception22.png)
 
 ---
 
@@ -398,9 +393,9 @@ Receptionists can create task reminders for:
 
 ![Screenshot](./images/reception/re35.png)
 
-![Screenshot](./images/reception/re36.png)
+![Screenshot](./images/reception/reception23.png)
 
-![Screenshot](./images/reception/re37.png)
+![Screenshot](./images/reception/reception24.png)
 
 ---
 
@@ -410,11 +405,11 @@ Receptionists can create task reminders for:
 
 Receptionists can view the complete holiday list added by the admin. This helps answer parent queries and understand operational closures.
 
-![Screenshot](./images/reception/re38.png)
+![Screenshot](./images/reception/reception26.png)
 
 <span style="color:red">Note: Only admins can create or edit holidays.</span>
 
-Check https://docs.gegok12.com/documentation/core-modules/holiday-list
+ [Open the Holiday List  Guide](/documentation/core-modules/holiday-list)
 
 ---
 
@@ -434,11 +429,11 @@ Receptionists will see notices such as:
 
 ![Screenshot](./images/reception/re39.png)
 
-![Screenshot](./images/reception/re40.png)
+![Screenshot](./images/reception/reception25.png)
 
 <span style="color:red">Click the given link to check how the admin records the notices in the notice board</span>
 
-https://docs.gegok12.com/documentation/core-modules/notice-board-management
+[Open the Notice Board Management Guide](/documentation/core-modules/notice-board-management)
 
 ---
 
@@ -456,7 +451,7 @@ This includes:
 - To-Do updates
 - Edits and deletions
 
-![Screenshot](./images/reception/re41.png)
+![Screenshot](./images/reception/reception21.png)
 
 ---
 
