@@ -98,7 +98,7 @@ The application will be available at:
 ##  Admin Credentials (Default)
 
 ```
-Email: demoschool@gegok12.com
+Email: demoschool@mailinator.com
 Password: password
 ```
 
