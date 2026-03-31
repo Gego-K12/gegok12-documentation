@@ -14,9 +14,9 @@ Welcome to the **gegok12.com** platform. This document will help you set up the 
 
 Ensure you have the following installed on your system:
 
-- PHP 8.1+
+- PHP 8.4
 - Composer
-- Node.js (v14)
+- Node.js (v24)
 - npm or yarn
 - MySQL
 - Git
